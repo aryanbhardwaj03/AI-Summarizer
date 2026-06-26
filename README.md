@@ -240,9 +240,6 @@ This project is licensed under the **MIT License**.
 
 **Aryan Bhardwaj**
 
-* GitHub: https://github.com/aryanbhardwaj03
-* LinkedIn: *Add your LinkedIn profile*
-
 ---
 
 ## ⭐ Show Your Support
